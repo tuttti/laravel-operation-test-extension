@@ -2,7 +2,7 @@ This package helps your fast and organized operation-base test with laravel/dusk
 
 ### How to install
 ```
-composer require ttn1129/laravel-operation-test-extension
+composer require tuttti/laravel-operation-test-extension
 ```
 
 ### Usage
