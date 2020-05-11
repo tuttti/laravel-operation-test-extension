@@ -2,15 +2,19 @@
     "autoload": {
         "psr-4": {
             "Tuttti\\LaraOTE\\": "src/LaraOTE"
-        }
+        },
+        "files": [
+            "src/LaraOTE/Helpers/laraote_helper_function.php"
+        ]
     },
     "name": "tuttti/laravel-operation-test-extension",
-    "description": "This is a well-organized package for ui test with laravel/dusk.",
+    "description": "",
     "type": "library",
     "require": {
         "laravel/dusk": "^6.1",
         "monolog/monolog": "^2.0",
-        "vlucas/phpdotenv": "^4.1"
+        "vlucas/phpdotenv": "^4.1",
+        "illuminate/support": "^7.10"
     },
     "license": "MIT",
     "require-dev": {

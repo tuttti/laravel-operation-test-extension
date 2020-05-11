@@ -1,6 +1,6 @@
 <?php
 
-namespace Tuttti\LaraOTE\UiTestModels;
+namespace Tuttti\LaraOTESample\UiTestModels;
 
 class Credintials implements toArrayableUiTestModel
 {
