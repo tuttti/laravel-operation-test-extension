@@ -1,5 +1,11 @@
+### Install
+
+```
+composer require tuttti/laravel-operation-test-extension
+```
 
 ### SetUp
+
 
 - **1.Add the ServiceProvider in `config/app.php`**
 
